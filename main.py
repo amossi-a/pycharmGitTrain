@@ -1,9 +1,7 @@
 """
 This python project is designed to test all Git aspects
 """
-
-def printName(name = 'Amossi'):
-    print('Hi ' + name)
+from functions import printName
 
 if __name__ == '__main__':
     printName()

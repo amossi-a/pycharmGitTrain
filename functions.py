@@ -11,3 +11,12 @@ def calcValue(a=0, b=2):
     :return: The sum of the two values
     """
     return a+b
+
+def calcValueNeg(a=0, b=2):
+    """
+    This function subtract two numbers together
+    :param a: First value
+    :param b: Second value
+    :return: The subtractions of the two values
+    """
+    return a-b

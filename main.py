@@ -5,4 +5,4 @@ Added another line to the comments
 from functions import printName
 
 if __name__ == '__main__':
-    printName()
+    printName('Saleet')
